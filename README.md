@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br><br>I'm Ümüt Barlak, a front-end and software developer based in Ankara, Turkey.<br><br>I'm always eager to learn and embrace new technologies. I love to improve myself and do research. I enjoy using the best practices and writing my code in a simple and understandable way.<br><br>I'm constantly working to improve my skills and knowledge in the front-end field. I use technologies such as React, HTML, CSS, SCSS and JavaScript.<br><br>I'm currently taking courses at Udemic to further my education in software development.<br><br>If you're interested in working with me or reaching out, feel free to contact me at umtbarlak@gmail.com.<br><br>Thanks.
+Hi there,<br><br>I'm Ümüt Barlak, a front-end and software developer based in Ankara, Turkey.<br><br>I'm always eager to learn and embrace new technologies. I love to improve myself and do research. I enjoy using the best practices and writing my code in a simple and understandable way.<br><br>I'm constantly working to improve my skills and knowledge in the front-end field. I use technologies such as React, HTML, CSS, SCSS and JavaScript.<br><br>I'm currently taking courses at Udemig to further my education in software development.<br><br>If you're interested in working with me or reaching out, feel free to contact me at umtbarlak@gmail.com.<br><br>Thanks.
 
 
 ## 🌐 Socials:
